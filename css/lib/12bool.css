@@ -124,7 +124,7 @@
 }
 
 
-/* dimensioni colonne su "tablet" width tra 768px e 992 MD*/
+/* dimensioni colonne su "tablet" width tra 769px e 992 MD*/
 
 @media all and (min-width:769px) and (max-width:992px) {
 
@@ -222,7 +222,7 @@
   }
 
   /* dimensioni colonne espresse in dodicesimi*/
-  
+
   .col-lg-1 {
     width: calc((100% / 12) * 1);
   }
